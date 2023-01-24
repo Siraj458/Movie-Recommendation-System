@@ -3,6 +3,11 @@ The whole project is described in this blog https://medium.com/@dozzynorm/movie-
 
 
 ## Final Output of this project
+#### landing page
 ![P1](https://user-images.githubusercontent.com/47959852/214274175-1ec61945-21f6-4963-b576-c3e73f5737fc.png)
+
+### Input == Batman
 ![P2](https://user-images.githubusercontent.com/47959852/214274199-f3d86930-27a6-4dab-8c53-e6afa753cef7.png)
+
+### Output(Recommended Movies)
 ![P3](https://user-images.githubusercontent.com/47959852/214274221-aa7ba527-f8e4-45b9-882c-f62d0e6c0ec9.png)
